@@ -1,0 +1,12 @@
+
+<resources>
+    <string name="app_name">یادآور هات‌اسپات</string>
+    <string name="set_time">تنظیم زمان</string>
+    <string name="view_status">وضعیت</string>
+    <string name="about">درباره</string>
+    <string name="alarm_saved">هات‌اسپات در زمان تعیین‌شده فعال می‌شود</string>
+    <string name="no_time_set">زمانی تنظیم نشده است</string>
+    <string name="root_status_yes">دستگاه روت است</string>
+    <string name="root_status_no">دستگاه روت نیست</string>
+    <string name="about_text">ساخته شده توسط Arash</string>
+</resources>

@@ -1,0 +1,12 @@
+
+<resources>
+    <string name="app_name">Hotspot Reminder</string>
+    <string name="set_time">Set Time</string>
+    <string name="view_status">View Status</string>
+    <string name="about">About</string>
+    <string name="alarm_saved">Hotspot will turn on at the selected time</string>
+    <string name="no_time_set">No time set</string>
+    <string name="root_status_yes">Device is rooted</string>
+    <string name="root_status_no">Device is not rooted</string>
+    <string name="about_text">Created by Arash</string>
+</resources>
